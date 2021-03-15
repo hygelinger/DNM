@@ -27,7 +27,7 @@ function videos (){
 
         </div>
         <div className='cards'>
-        <h1> Ve los últimos videos de DNM </h1>
+        <h2> Ve los últimos videos de Donde Nace el Miedo </h2>
         <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">

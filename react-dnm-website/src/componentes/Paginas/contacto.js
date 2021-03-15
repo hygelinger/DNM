@@ -8,15 +8,19 @@ import '../Glitch.css'
 import "tailwindcss/tailwind.css"
 import '../Cards.css'
 import '../contacto.css'
-
+import '../Glitch.css'
 
 function contacto (){
     return(
         
         <form className="form">
 
-            
-        <h1>CONTACTO</h1>
+            <h1 className="glitch">
+                 <span aria-hidden="true"></span>
+                 CONTACTO
+                <span aria-hidden="true"></span>
+            </h1>
+
         <label>Nombre</label>
         <input placeholder="nombre" />
         <label>Email</label>

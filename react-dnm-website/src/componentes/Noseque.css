@@ -1,4 +1,4 @@
-
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 
 video {
     object-fit: cover;
@@ -41,7 +41,8 @@ video {
       color: #ffffff;
       font-size: 40px;
       text-decoration: blink;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+      font-family: 'Anton', sans-serif;
   }
 
   .noseque-btns{
@@ -66,10 +67,11 @@ video {
     .noseque-container>h1{
         font-size: 50px;
         margin-top: -100px;
-
+        
     }
     .noseque-container > p{
         font-size:30px;
+        
     }
     .btn-mobile{
         display: block;

@@ -20,13 +20,13 @@ function About() {
 
         </div>
         <div className='cards'>
-        <h1> Donde nace el miedo es un proyecto dedicado al terror y misterio, nacido en 2010 de la radio a Youtube, Donde nace el miedo trata de abarcar los temas más importantes de indole paranormal. </h1>
+        <h2> Donde nace el miedo es un proyecto dedicado al terror y misterio, nacido en 2010 de la radio a Youtube, Donde nace el miedo trata de abarcar los temas más importantes de indole paranormal. </h2>
         <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                     <Carditem
                             src={ima3} 
-                            text="Hoy, te presentare mi página web, aquí, Donde nace el miedo"
+                            text="Todos los derechos reservados por Donde Nace el Miedo Company"
                             label=''
                             path='https://www.youtube.com/watch?v=D8Q7FOfB0Ks'
                             

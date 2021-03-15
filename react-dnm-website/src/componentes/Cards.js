@@ -11,7 +11,7 @@ import ima6 from '../tm4.jpg'
 function Cards() {
     return (
         <div className='cards'>
-            <h1> Adentrate en el mundo del terror </h1>
+            <h2> Adentrate en el mundo del terror </h2>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">

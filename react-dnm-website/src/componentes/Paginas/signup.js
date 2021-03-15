@@ -8,7 +8,9 @@ function signup (){
     return(
         <section className="login">
             <div className="loginContainer">
-                <label>Username</label>
+                <h1>Ingresa ahora</h1>
+                <li>   </li>
+                <label >Username</label>
                 <input type="text" autoFocus required/>
                 <label>Password</label>
                 <input type="text" autoFocus required/>

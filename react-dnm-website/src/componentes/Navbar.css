@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
 .navbar {
     background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
     height: 80px;
-    width: 1620px;
+    width: 1645px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,6 +30,7 @@
     font-size: 1.8rem;
     display: flex;
     align-items: center;
+    font-family: 'Anton', sans-serif;
   }
   
   .fa-typo3 {
@@ -57,6 +60,7 @@
     text-decoration: none;
     padding: 0.5rem 1rem;
     height: 100%;
+    font-family: 'Anton', sans-serif;
   }
   
   .nav-links:hover {
@@ -119,6 +123,7 @@
       top: 0;
       left: 0;
       transform: translate(25%, 50%);
+      
     }
   
     .menu-icon {
